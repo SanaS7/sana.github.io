@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11e4e1da.css",
+    "main.js": "/static/js/main.d27352a0.js",
+    "static/media/sliderBG.png": "/static/media/sliderBG.d34836ff208933106023.png",
+    "static/media/office.webp": "/static/media/office.acdf164aebb1e5bde802.webp",
+    "index.html": "/index.html",
+    "static/media/black_lozenge.webp": "/static/media/black_lozenge.126e49f72bd58caf4e65.webp",
+    "main.11e4e1da.css.map": "/static/css/main.11e4e1da.css.map",
+    "main.d27352a0.js.map": "/static/js/main.d27352a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11e4e1da.css",
+    "static/js/main.d27352a0.js"
+  ]
+}
