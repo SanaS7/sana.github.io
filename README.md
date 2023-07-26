@@ -64,8 +64,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Screenshots 
 
 <img width="1300" alt="Screen1" src="https://github.com/SanaS7/sanas7.github.io/blob/main/Screenshot%201.png">
-
-<img width="1294" alt="Screen2" src="">
+<img width="1294" alt="Screen2" src="https://github.com/SanaS7/sanas7.github.io/blob/main/Screenshot%202.png">
+<img width="1294" alt="Screen2" src="https://github.com/SanaS7/sanas7.github.io/blob/main/Screenshot%203.png">
+<img width="1294" alt="Screen2" src="https://github.com/SanaS7/sanas7.github.io/blob/main/Screenshot%204.png">
 
 
 
